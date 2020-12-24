@@ -5,10 +5,7 @@ public class Main {
         super();
     }
 
-    @Override
-    public String toString() {
-        return "Main{}";
-    }
+
 
     @Override
     public int hashCode() {
