@@ -6,6 +6,11 @@ public class Main {
     }
 
     @Override
+    public String toString() {
+        return "Main{}";
+    }
+
+    @Override
     public int hashCode() {
         return super.hashCode();
     }
