@@ -5,7 +5,10 @@ public class Main {
         super();
     }
 
-
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 
     @Override
     public int hashCode() {
